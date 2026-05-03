@@ -1,1 +1,1 @@
-# Assignment-11
+# Assignment 11 - This assignment involved using Matplotlib to visualize business data through charts and dashboards. The objective was to learn how to analyze trends, compare performance, and communicate insights visually.
